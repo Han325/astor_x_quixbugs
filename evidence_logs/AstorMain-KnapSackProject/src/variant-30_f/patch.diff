@@ -1,0 +1,6 @@
+--- /src/main/java/java_programs/KNAPSACK.java
++++ /src/main/java/java_programs/KNAPSACK.java
+@@ -24 +24 @@
+-				} else if (weight < j) {
++				} else if (weight <= j) {
+

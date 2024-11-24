@@ -1,0 +1,6 @@
+--- /src/main/java/java_programs/KNAPSACK.java
++++ /src/main/java/java_programs/KNAPSACK.java
+@@ -30 +30 @@
+-				if (weight < j) {
++				if (weight <= j) {
+
